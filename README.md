@@ -44,3 +44,4 @@ Antes de automatizar deploy de banco/funções pelo GitHub, crie um ambiente de 
 ## Status do snapshot
 
 Este pacote foi preparado a partir do estado atual do projeto ConnectFlow em setembro de 2026. Ele é um ponto de partida para versionamento no GitHub; o banco de dados vivo continua hospedado no Supabase.
+Teste de deploy automático da Vercel.
