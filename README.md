@@ -1,4 +1,4 @@
-# ConnectFlow Digital
+<img width="624" height="636" alt="image" src="https://github.com/user-attachments/assets/8c7956c7-a1d8-44f5-a9f0-4faf6cdc83b3" /># ConnectFlow Digital
 
 Painel interno da ConnectFlow Digital para gestão de clientes, acessos, equipe, campanhas, conteúdo, CRM, metas, diagnósticos, relatórios e integrações.
 
